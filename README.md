@@ -6,8 +6,9 @@ Doctors can use it to track patient data and prescription and pharmacies can upl
 
 Contributers:
 
-https://github.com/satvik-phadte
-https://github.com/Allen-ctrl-web
+https://github.com/satvik-phadte.
+
+https://github.com/Allen-ctrl-web.
 
 
 
