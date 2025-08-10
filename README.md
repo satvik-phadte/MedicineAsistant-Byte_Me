@@ -1,4 +1,4 @@
-<img width="958" height="809" alt="image" src="https://github.com/user-attachments/assets/10fa69c2-847a-4552-a138-1fcc30111024" />#Medicine-asistant.
+# Medicine Asistant
 
 A  easy-to-use medicine assistance platform designed for elderly users and busy professionals.
 The app helps locate pharmacies with specific medicines, reminds users to take their medication on time, and allows easy prescription uploads.
