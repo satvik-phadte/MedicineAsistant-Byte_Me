@@ -16,7 +16,7 @@ Currently, it uses **in-memory or SQLite storage** for testing purposes.
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 - **Backend:** Django, Django REST Framework
 - **Frontend (planned):** Flutter
 - **Database:** SQLite (default for development)
@@ -33,19 +33,19 @@ git clone https://github.com/yourusername/medicine-assistant-backend.git
 cd medicine-assistant-backend
 
 
-##Create and Activate Virtual Environment
+## Create and Activate Virtual Environment
 
 python -m venv env
 
 env\Scripts\activate
 
-##Run migrations
+## Run migrations
 
 python manage.py makemigrations
 
 python manage.py migrate
 
-##Run server
+## Run server
 
 python manage.py runserver
 
