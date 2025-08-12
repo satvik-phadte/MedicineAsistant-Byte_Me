@@ -26,13 +26,14 @@ Currently, it uses **in-memory or SQLite storage** for testing purposes.
 
 ##  Getting Started
 
-### 1️Clone the Repository
+### 1️ Clone the Repository
 
 git clone https://github.com/yourusername/medicine-assistant-backend.git
 cd medicine-assistant-backend
 
 
-Create and Activate Virtual Environment
+Create and Activate Virtual Environment\
+
 python -m venv env
 env\Scripts\activate
 
