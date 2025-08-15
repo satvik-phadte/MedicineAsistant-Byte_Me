@@ -2,7 +2,7 @@
 
 This is the **backend** for the Medicine Assistant App, built with **Django** and **Django REST Framework**.  
 It provides CRUD APIs for managing pharmacies, medicines, prescriptions, and reminders.  
-Currently, it uses **in-memory or SQLite storage** for testing purposes.
+Currently, it uses **in-memory  for testing purposes.
 
 ---
 
